@@ -1,0 +1,578 @@
+Name,SecondName,BirthDate,Company,Sex
+Emily,Larson,1978-02-03,Nintendo,m
+Katie,Chavez,1996-12-21,Microsoft Game Studios,m
+Larry,Rodriguez,1971-09-04,Take-Two Interactive,f
+Christine,Hughes,1985-03-04,Sony Computer Entertainment,f
+William,Patterson,1988-12-09,Activision,f
+Natasha,Mitchell,1970-04-04,Ubisoft,f
+Melissa,Salinas,1992-01-14,Bethesda Softworks,m
+Daniel,Morrison,1974-03-23,Electronic Arts,f
+Amanda,Mcdonald,1987-01-26,Sega,f
+Christopher,Perez,1975-04-01,SquareSoft,m
+Heather,Foster,1984-11-03,Atari,f
+Kevin,Arnold,1993-01-20,505 Games,f
+Carol,Butler,1986-12-31,Capcom,f
+Rita,Thompson,1996-08-09,GT Interactive,m
+Rebecca,Mitchell,1993-04-07,Konami Digital Entertainment,f
+Melissa,Jones,1979-11-24,Sony Computer Entertainment Europe,f
+Stacey,Washington,1983-05-26,Square Enix,f
+Cheyenne,Dean,1980-03-17,LucasArts,m
+Dawn,White,1970-01-04,Virgin Interactive,f
+Julie,Stokes,1971-11-27,Warner Bros. Interactive Entertainment,f
+Emma,Parker,1970-03-28,Universal Interactive,f
+Sarah,Maxwell,1994-05-23,Eidos Interactive,m
+Kimberly,Sims,1971-06-26,RedOctane,m
+Miranda,Davis,1995-02-01,Vivendi Games,f
+Brandi,Byrd,1989-05-30,Enix Corporation,f
+Hannah,Medina,1974-03-14,Namco Bandai Games,f
+Victoria,Moore,1995-04-17,Palcom,m
+Carol,Moore,1980-05-24,Hasbro Interactive,m
+Maurice,Park,1994-02-17,THQ,f
+Kathy,Horton,1978-12-19,Fox Interactive,m
+Adam,Cooper,1987-04-29,Acclaim Entertainment,f
+John,Martin,1990-01-20,MTV Games,f
+Eric,White,1993-04-06,Disney Interactive Studios,m
+Sabrina,Meza,1987-09-09,N/A,m
+Chelsea,Jones,1978-02-23,Majesco Entertainment,m
+Jennifer,Hernandez,1990-12-14,Codemasters,m
+Michael,Mitchell,1977-04-13,Red Orb,m
+Stephanie,Taylor,1979-01-01,Level 5,f
+Wesley,Smith,1972-09-21,Arena Entertainment,m
+Paul,Chapman,1976-12-11,Midway Games,f
+Carlos,Johnson,1995-04-10,JVC,m
+Zachary,Brown,1972-11-25,Deep Silver,f
+Alexander,Bryant,1983-10-21,989 Studios,f
+Jennifer,Salazar,1970-03-25,NCSoft,f
+Shannon,Ortega,1993-09-07,UEP Systems,m
+Cory,Bell,1975-07-07,Parker Bros.,f
+Stacey,Martinez,1983-11-30,Maxis,f
+William,Walker,1971-01-17,Imagic,f
+Melvin,Mata,1975-05-29,Tecmo Koei,f
+Joseph,Olson,1970-08-06,Valve Software,m
+Miranda,Martin,1994-01-25,ASCII Entertainment,m
+Julie,Diaz,1973-09-29,Mindscape,m
+Rebecca,Wheeler,1980-01-23,Infogrames,f
+Dawn,Cruz,1989-09-15,Unknown,f
+Madeline,Ellis,1977-02-27,Square,m
+Michele,Wagner,1995-07-20,Valve,m
+John,Smith,1979-11-21,Activision Value,m
+Joshua,Goodwin,1981-04-27,Banpresto,f
+Steven,Johnson,1977-11-05,D3Publisher,f
+Keith,Mccall,1997-03-02,Oxygen Interactive,f
+Robert,Bell,1992-02-02,Red Storm Entertainment,f
+Jonathan,Rogers,1973-04-20,Video System,f
+Scott,Rivera,1975-07-25,Hello Games,m
+Frank,Hutchinson,1995-12-30,Global Star,f
+Geoffrey,Ford,1975-10-05,Gotham Games,f
+Toni,Smith,1994-08-12,Westwood Studios,m
+Robert,Cunningham,1991-06-10,GungHo,f
+Pamela,Mullins,1981-02-11,Crave Entertainment,m
+Colton,Campbell,1976-11-22,Hudson Soft,f
+Kevin,Reese,1976-11-06,Coleco,f
+Rebecca,Salazar,1990-09-05,Rising Star Games,m
+Donna,Franklin,1987-12-05,Atlus,f
+Jordan,Lang,1971-05-13,TDK Mediactive,f
+Manuel,Boyd,1995-08-24,ASC Games,f
+David,Cox,1990-07-15,Zoo Games,m
+Larry,Myers,1983-11-15,Accolade,f
+Stephanie,Robinson,1972-03-01,Sony Online Entertainment,m
+Edward,Bentley,1978-02-04,3DO,m
+Kyle,Mayer,1982-02-04,RTL,f
+David,Fox,1973-03-24,Natsume,f
+Katie,Bradshaw,1970-12-05,Focus Home Interactive,m
+Joshua,Lewis,1973-12-27,Alchemist,m
+Brian,Smith,1972-01-10,Black Label Games,f
+Chase,Lara,1972-01-24,SouthPeak Games,f
+Sheila,Andrews,1996-10-30,Mastertronic,m
+Kyle,Gillespie,1993-12-19,Ocean,f
+Amy,Baker,1970-12-14,Zoo Digital Publishing,m
+Andrew,Blake,1976-08-08,Psygnosis,f
+Michael,Cook,1974-06-20,City Interactive,m
+William,Ward,1975-03-04,Empire Interactive,f
+Christopher,Powell,1995-05-28,Success,f
+Robert,Shelton,1995-12-22,Compile,f
+Bryan,Bryant,1983-06-07,Russel,m
+George,Roth,1978-09-07,Taito,m
+Timothy,Estrada,1982-02-24,Agetec,f
+Michael,Walsh,1980-04-15,GSP,f
+Ivan,Erickson,1978-01-24,Microprose,f
+Timothy,Ortiz,1981-06-29,Play It,f
+Stacey,Sanchez,1978-05-09,Slightly Mad Studios,m
+Susan,Campbell,1987-10-16,Tomy Corporation,m
+Hannah,Cannon,1976-03-06,Sammy Corporation,f
+Justin,Walton,1979-02-19,Koch Media,f
+Audrey,Baldwin,1995-07-19,Game Factory,m
+Juan,Best,1986-10-07,Titus,f
+Collin,Hernandez,1992-01-20,Marvelous Entertainment,m
+Timothy,Dean,1979-06-23,Genki,m
+Gary,Francis,1991-12-02,Mojang,m
+Julie,Welch,1988-10-01,Pinnacle,m
+Hector,Reynolds,1990-08-25,CTO SpA,f
+Michelle,Fitzpatrick,1979-04-15,TalonSoft,m
+David,Powell,1983-12-04,Crystal Dynamics,f
+Joe,Vargas,1971-09-17,SCi,f
+Katrina,Simon,1993-08-15,Quelle,m
+Stephanie,Nguyen,1996-11-06,"mixi, Inc",m
+Adam,Mccoy,1980-01-20,Rage Software,m
+Brittany,Johnson,1988-07-10,Ubisoft Annecy,m
+Martin,Cruz,1983-02-02,Scholastic Inc.,f
+Maria,Morrison,1972-11-06,Interplay,m
+Elizabeth,Frazier,1980-10-13,Mystique,f
+Joshua,Cruz,1994-06-26,ChunSoft,m
+Deborah,Dean,1980-12-07,Square EA,f
+James,Hughes,1975-11-21,20th Century Fox Video Games,m
+Corey,Soto,1996-05-07,Avanquest Software,m
+Nathan,Goodman,1979-02-16,Hudson Entertainment,f
+Joel,Moran,1984-10-25,Nordic Games,m
+Steven,Sanchez,1989-07-15,Men-A-Vision,m
+Aaron,Palmer,1990-01-30,Nobilis,f
+Timothy,Moore,1974-03-18,Big Ben Interactive,f
+Holly,Jackson,1986-02-12,Touchstone,m
+George,Perez,1975-12-30,Spike,m
+Sydney,Jackson,1970-04-09,Jester Interactive,m
+Brittney,Kelley,1996-02-05,Nippon Ichi Software,f
+Steven,Lee,1981-05-26,LEGO Media,m
+Dawn,Burch,1995-04-02,Quest,m
+Colin,Willis,1989-05-22,Illusion Softworks,f
+Carrie,Smith,1986-12-06,Tigervision,m
+April,Evans,1972-07-25,Funbox Media,f
+Julie,Edwards,1984-05-30,Rocket Company,m
+Matthew,Romero,1989-03-01,Metro 3D,m
+Jason,Parks,1981-12-31,Mattel Interactive,f
+Wendy,Romero,1994-09-02,IE Institute,f
+Caroline,Sanchez,1976-08-23,Rondomedia,f
+Jeffrey,Fowler,1995-11-10,Sony Computer Entertainment America,m
+Brian,Willis,1991-08-13,Universal Gamex,f
+Dana,Rivera,1989-05-22,Ghostlight,m
+Jessica,Turner,1970-04-07,Wizard Video Games,m
+Eric,Salazar,1972-11-21,BMG Interactive Entertainment,f
+Catherine,Washington,1997-02-16,PQube,f
+Darius,Martinez,1978-06-02,Trion Worlds,f
+Ashley,Adams,1996-08-06,Laguna,f
+Barbara,Black,1971-06-12,Ignition Entertainment,f
+Lauren,Howell,1995-12-18,Takara,f
+Hector,Martinez,1980-02-16,Kadokawa Shoten,m
+Michelle,Barajas,1982-03-21,Destineer,m
+Ann,Johnson,1996-07-14,Enterbrain,f
+Jessica,Black,1971-12-09,Xseed Games,m
+Anthony,May,1985-11-01,Imagineer,f
+Jeffrey,Frazier,1980-02-10,System 3 Arcade Software,m
+Lisa,West,1977-11-12,CPG Products,f
+Elizabeth,Freeman,1979-10-19,Aruze Corp,f
+Richard,Benson,1976-10-21,Gamebridge,f
+Brandon,Miller,1973-05-01,Midas Interactive Entertainment,f
+Sydney,Scott,1978-02-06,Jaleco,f
+Jasmine,Murphy,1986-07-05,Answer Software,m
+Thomas,Barnett,1979-10-10,XS Games,f
+Howard,Peters,1995-11-28,Activision Blizzard,m
+George,Martinez,1989-09-24,Pack In Soft,m
+Glenn,Miller,1989-07-29,Rebellion,m
+Tammy,Nash,1991-04-19,Xplosiv,m
+Peggy,Garcia,1992-07-09,GameMill Entertainment,m
+Joseph,Klein,1986-06-10,Wanadoo,f
+Daniel,Stanley,1984-04-13,NovaLogic,m
+Adam,Black,1971-01-02,Telltale Games,f
+Shannon,Ponce,1981-01-20,Epoch,f
+Stephen,King,1990-05-31,BAM! Entertainment,f
+Noah,Baker,1977-11-03,Knowledge Adventure,m
+James,Marsh,1996-04-02,Mastiff,m
+Anthony,White,1993-09-15,Tetris Online,m
+Donna,Carlson,1989-10-17,Harmonix Music Systems,f
+Tracy,Stone,1971-09-02,ESP,f
+Susan,Daniel,1992-01-21,TYO,m
+Jill,Galvan,1990-03-11,Telegames,f
+Casey,Henderson,1984-03-27,Mud Duck Productions,m
+Carrie,Ross,1975-07-13,Screenlife,f
+William,Ellison,1981-09-26,Pioneer LDC,f
+Gabriel,Gallegos,1981-07-27,Magical Company,m
+David,Werner,1994-08-27,Mentor Interactive,m
+Brenda,Hamilton,1978-05-09,Kemco,m
+Scott,Newman,1990-07-26,Human Entertainment,m
+Patrick,York,1987-04-28,Avanquest,m
+Justin,Norris,1981-02-19,Data Age,m
+Cory,Miles,1995-05-01,Electronic Arts Victor,f
+Marie,Walker,1981-10-04,Black Bean Games,m
+Katherine,Lee,1996-05-09,Jack of All Games,m
+Mark,Glover,1974-06-11,989 Sports,m
+Cesar,Frazier,1984-06-10,Takara Tomy,f
+Tracy,Silva,1992-06-02,Media Rings,m
+Dana,Winters,1982-05-13,Elf,m
+Courtney,Adams,1979-01-16,Kalypso Media,f
+Angela,Peters,1970-07-27,Starfish,m
+Brandy,Dyer,1986-06-25,Zushi Games,f
+Carolyn,Evans,1981-04-19,Jorudan,m
+Jessica,George,1970-01-20,"Destination Software, Inc",f
+Allen,Nelson,1991-04-13,New,f
+Susan,Olson,1992-10-09,Brash Entertainment,f
+Mary,Brewer,1971-05-05,ITT Family Games,m
+John,Jones,1971-07-15,PopCap Games,f
+Shannon,Webb,1996-11-20,Home Entertainment Suppliers,f
+Briana,Edwards,1971-07-19,Ackkstudios,m
+Robert,Shea,1981-09-13,Starpath Corp.,f
+Joseph,Anderson,1983-02-07,P2 Games,m
+Adrian,Bruce,1977-09-07,BPS,m
+Shannon,Watson,1980-06-23,Gathering of Developers,f
+Debra,Johnson,1993-09-21,NewKidCo,m
+Kathleen,Thomas,1987-02-27,Storm City Games,f
+Michelle,Welch,1975-02-23,CokeM Interactive,m
+Anna,Vaughn,1994-11-23,CBS Electronics,m
+Andrew,Stephens,1987-07-10,Magix,f
+Thomas,Acosta,1993-02-03,Marvelous Interactive,f
+Courtney,Hughes,1993-07-11,Nihon Falcom Corporation,m
+Andrew,Thompson,1974-06-04,Wargaming.net,f
+Ronnie,Scott,1994-06-15,Angel Studios,f
+Patricia,Brown,1979-05-16,Arc System Works,m
+David,Nelson,1995-05-31,Playmates,f
+Samantha,Odonnell,1987-10-03,SNK Playmore,f
+William,Ramirez,1971-04-09,Hamster Corporation,m
+Stephanie,Daniels,1988-04-24,From Software,m
+Margaret,Barrett,1986-04-11,Nippon Columbia,m
+Bryan,Wright,1987-12-10,Nichibutsu,f
+Karl,Baldwin,1970-08-29,Little Orbit,m
+Gabrielle,Dawson,1980-06-06,Conspiracy Entertainment,f
+Crystal,Curtis,1995-08-10,DTP Entertainment,m
+Barbara,Lucas,1976-09-18,Hect,f
+Joan,Bell,1996-10-13,Mumbo Jumbo,f
+Samantha,Russell,1970-08-09,Pacific Century Cyber Works,f
+Victoria,Lynn,1990-07-28,Indie Games,m
+Robert,Greene,1974-05-24,Liquid Games,m
+Joseph,Wright,1990-02-07,NEC,m
+Derek,Cooper,1974-09-29,Axela,m
+Michael,Keller,1987-01-11,ArtDink,m
+Alexander,Allen,1971-09-04,Sunsoft,f
+Mary,Mendoza,1975-11-03,Gust,m
+Valerie,Mason,1996-01-11,SNK,m
+Robert,Hill,1984-01-14,NEC Interchannel,f
+Daniel,Wright,1995-01-19,FuRyu,f
+William,Sherman,1975-03-19,Xing Entertainment,m
+Colton,Bishop,1987-08-13,ValuSoft,m
+Travis,Bowers,1973-10-20,Victor Interactive,f
+John,Anderson,1977-09-20,Detn8 Games,f
+Ashley,Ortiz,1971-10-31,American Softworks,f
+Brandon,Gray,1986-03-27,Nordcurrent,m
+Deborah,Tucker,1974-12-28,Bomb,f
+Brian,Valentine,1970-09-24,Falcom Corporation,m
+Tommy,Zhang,1978-08-15,AQ Interactive,f
+Elijah,Jones,1992-04-29,CCP,f
+Tracy,Gonzalez,1991-01-21,Milestone S.r.l.,m
+Mary,Leon,1979-04-06,JoWood Productions,m
+Darrell,Hunt,1995-09-30,Seta Corporation,f
+Timothy,Nicholson,1996-11-18,On Demand,f
+Benjamin,Nixon,1974-03-21,NCS,f
+Richard,Mason,1981-03-11,Aspyr,f
+Matthew,Ross,1980-02-01,Gremlin Interactive Ltd,f
+James,Floyd,1977-05-17,Agatsuma Entertainment,m
+Tyler,Thompson,1984-04-05,Compile Heart,m
+Roger,Morrow,1988-09-08,Culture Brain,f
+Cameron,Marks,1992-05-07,Mad Catz,m
+Logan,Adams,1987-01-17,Shogakukan,f
+Elizabeth,Moreno,1985-08-09,Merscom LLC,m
+Reginald,Flores,1991-10-28,Rebellion Developments,m
+John,Green,1985-09-22,Nippon Telenet,m
+Hannah,Roberts,1986-04-18,TDK Core,m
+Michael,Ewing,1992-10-24,bitComposer Games,m
+Nicholas,Hunter,1994-09-25,Foreign Media Games,m
+Adriana,Kim,1980-07-15,Astragon,f
+Angela,Smith,1982-01-28,SSI,f
+Teresa,Andrade,1972-06-19,Kadokawa Games,f
+Robert,Reed,1995-12-05,Idea Factory,f
+William,Johnson,1983-01-16,Performance Designed Products,f
+Alicia,Prince,1995-04-20,Asylum Entertainment,f
+Michael,Garrison,1976-10-24,Core Design Ltd.,f
+Tony,Tanner,1990-07-16,PlayV,f
+Walter,Curry,1994-06-09,UFO Interactive,f
+Amy,Cooper,1983-06-09,Idea Factory International,m
+James,Simpson,1975-07-12,Playlogic Game Factory,m
+Jacob,Brewer,1994-09-18,Essential Games,f
+Carl,Baker,1971-09-11,Adeline Software,f
+Maria,Gonzalez,1973-07-01,Funcom,f
+Robert,Hobbs,1985-01-14,Panther Software,m
+Kevin,Castro,1988-04-12,Blast! Entertainment Ltd,f
+Tanya,Wright,1984-10-27,Game Life,m
+Mark,Black,1995-01-04,DSI Games,m
+Donald,Williams,1994-12-30,Avalon Interactive,m
+David,Goodwin,1977-11-16,Popcorn Arcade,f
+George,Pham,1993-06-09,Neko Entertainment,f
+Andrew,Powell,1977-06-21,Vir2L Studios,m
+Taylor,Jones,1991-04-22,Aques,f
+Joseph,Carr,1993-06-30,Syscom,m
+Deborah,Travis,1972-09-24,White Park Bay Software,f
+Teresa,Martin,1983-06-24,System 3,m
+Linda,Mcknight,1994-04-22,Vatical Entertainment,m
+Crystal,Smith,1977-11-26,Daedalic,f
+Sharon,Mills,1988-01-03,EA Games,f
+Andre,Morris,1981-07-14,Media Factory,f
+Monique,Mcfarland,1988-07-11,Vic Tokai,m
+Vicki,Jackson,1981-10-11,The Adventure Company,m
+Cheryl,Carter,1994-08-06,Game Arts,f
+Mackenzie,Cox,1981-06-18,Broccoli,m
+Nicole,Allen,1971-03-30,Acquire,m
+Kelly,Williams,1982-08-10,General Entertainment,f
+Carlos,Smith,1970-09-26,Excalibur Publishing,f
+Jeffrey,Lynn,1977-08-15,Imadio,m
+Elizabeth,Hart,1970-09-22,Swing! Entertainment,f
+Cynthia,Calhoun,1970-05-07,Sony Music Entertainment,m
+Crystal,Johnson,1987-10-11,Aqua Plus,m
+Tina,Lewis,1980-01-22,Paradox Interactive,f
+Janet,Heath,1971-07-10,Hip Interactive,m
+Mary,Burns,1987-01-12,DreamCatcher Interactive,m
+Alec,Mckay,1971-03-27,Tripwire Interactive,f
+Danny,Holland,1996-12-28,Sting,m
+Renee,Walker,1983-11-08,Yacht Club Games,m
+Jennifer,Shelton,1975-08-02,SCS Software,f
+Benjamin,Golden,1978-01-08,Bigben Interactive,m
+John,Riley,1994-02-08,Havas Interactive,m
+Peter,Klein,1976-08-13,Slitherine Software,f
+Benjamin,Jones,1977-10-14,Graffiti,f
+Leroy,Cobb,1988-06-29,Funsta,f
+Stephanie,Mason,1995-03-27,Telstar,f
+Brenda,Smith,1982-12-18,U.S. Gold,f
+Donald,Allen,1972-11-21,DreamWorks Interactive,f
+Aaron,King,1971-03-03,Data Design Interactive,f
+Tina,Young,1995-07-14,MTO,f
+Brett,Hayes,1993-05-20,DHM Interactive,m
+Amy,Anderson,1993-12-28,FunSoft,f
+Michelle,Craig,1973-08-17,SPS,f
+Michael,Lopez,1985-06-24,Bohemia Interactive,m
+Lisa,Robertson,1994-08-17,Reef Entertainment,m
+Aaron,Barnes,1995-01-01,Tru Blu Entertainment,f
+Mark,Nguyen,1984-03-17,Moss,m
+Phillip,Tucker,1992-07-15,T&E Soft,f
+Richard,Brown,1977-10-21,O-Games,f
+Audrey,Fuentes,1973-01-01,Aksys Games,m
+Tara,Mueller,1975-06-10,NDA Productions,m
+Molly,Gonzalez,1984-09-02,Data East,f
+Jason,Martin,1987-06-03,Time Warner Interactive,f
+Bobby,English,1987-01-12,Gainax Network Systems,f
+Anita,Bennett,1971-12-14,Daito,f
+Sherry,Fitzgerald,1985-01-02,O3 Entertainment,f
+Daniel,Smith,1970-04-28,Gameloft,f
+Bridget,Snyder,1970-04-20,Xicat Interactive,f
+William,Livingston,1984-05-14,Simon & Schuster Interactive,f
+Rebecca,Bennett,1994-07-21,Valcon Games,m
+Gary,Collins,1992-09-19,PopTop Software,f
+Peter,Meyer,1985-07-28,TOHO,m
+Matthew,Herring,1979-01-30,HMH Interactive,f
+Daniel,Young,1996-03-01,5pb,f
+Veronica,Rodriguez,1972-09-09,Cave,f
+Gregory,Snyder,1984-09-02,CDV Software Entertainment,m
+Melvin,Blankenship,1980-03-15,Microids,f
+Brandon,Thompson,1986-04-27,PM Studios,f
+Michael,Taylor,1992-12-16,Paon,m
+Jeffrey,Snyder,1991-07-19,Micro Cabin,f
+Jennifer,Decker,1995-09-24,GameTek,f
+Brendan,Young,1978-02-23,Benesse,m
+Deborah,Booth,1975-06-19,Type-Moon,f
+Thomas,Chase,1981-07-21,Enjoy Gaming ltd.,f
+Paul,Sims,1979-12-14,Asmik Corp,m
+Matthew,Hill,1976-10-19,Interplay Productions,f
+Amy,Phillips,1979-03-04,Asmik Ace Entertainment,m
+Stacey,Robinson,1988-04-24,inXile Entertainment,f
+Joanna,Montoya,1973-03-08,Image Epoch,f
+Jared,Green,1974-01-20,Phantom EFX,m
+Kevin,Henry,1975-02-25,Evolved Games,f
+Brian,Russell,1975-10-03,responDESIGN,m
+Scott,Hughes,1983-06-05,Culture Publishers,f
+Rachel,York,1972-05-06,Griffin International,m
+Jasmine,Wood,1996-07-25,Hackberry,f
+Kristin,Miller,1983-05-15,Hearty Robin,f
+Scott,Rowe,1985-01-31,Nippon Amuse,f
+Elizabeth,Hoffman,1976-12-03,Origin Systems,f
+Alyssa,Morgan,1976-02-07,Seventh Chord,f
+Marc,Stewart,1980-12-19,Mitsui,m
+Yvette,Johnson,1992-03-20,Milestone,m
+Betty,Hamilton,1983-01-15,Abylight,f
+Joseph,Garcia,1975-06-06,Flight-Plan,f
+Stephanie,York,1987-11-04,Glams,f
+Lori,Rodriguez,1984-08-18,Locus,f
+Kimberly,Cooper,1992-06-02,Warp,f
+Omar,Rhodes,1986-04-04,Daedalic Entertainment,f
+Melissa,Ryan,1984-06-22,Alternative Software,f
+Erika,Calderon,1992-11-25,Myelin Media,f
+Jermaine,Taylor,1986-09-19,Mercury Games,m
+Douglas,Chambers,1975-11-20,Irem Software Engineering,m
+Thomas,Waller,1983-12-17,Sunrise Interactive,f
+Phillip,Schultz,1976-06-05,Elite,f
+Julie,Duran,1983-09-24,Evolution Games,f
+Peter,Hood,1991-08-28,Tivola,f
+Anna,Diaz,1984-07-27,Global A Entertainment,f
+Michelle,Adams,1970-04-16,Edia,f
+Jennifer,Kemp,1970-11-25,Athena,m
+Stephen,Cardenas,1978-07-06,Aria,f
+Jamie,Arnold,1981-07-04,Gamecock,f
+Linda,Evans,1973-05-05,Tommo,f
+Elizabeth,Wang,1982-01-13,Altron,m
+Jennifer,Nelson,1980-12-13,Happinet,m
+Daniel,Williams,1990-10-24,iWin,f
+Jennifer,Brock,1971-07-09,Media Works,m
+Dawn,Padilla,1994-08-20,Fortyfive,m
+Debra,Craig,1970-02-11,Revolution Software,m
+Samantha,Morris,1987-08-16,Imax,f
+Stephanie,Ramirez,1980-11-04,Crimson Cow,f
+Chad,Roberts,1976-04-21,10TACLE Studios,m
+Mariah,Meyers,1971-06-17,Groove Games,m
+Wendy,King,1996-12-26,Pack-In-Video,f
+Sydney,Bell,1978-02-15,Insomniac Games,m
+Donald,Pierce,1983-09-16,Ascaron Entertainment GmbH,f
+Jennifer,Lara,1973-10-28,Asgard,f
+Monique,Randolph,1982-01-17,Ecole,m
+Krista,Sanders,1975-09-14,Yumedia,f
+Donald,Jackson,1973-12-20,Phenomedia,m
+Donna,Richard,1981-02-01,HAL Laboratory,f
+Nathan,Alvarez,1986-07-05,Grand Prix Games,f
+Michael,Buckley,1996-02-12,DigiCube,f
+Jason,Fletcher,1980-11-15,Creative Core,m
+Alexander,Knight,1975-09-02,Kaga Create,m
+Ronald,Nielsen,1992-04-30,WayForward Technologies,f
+Hannah,Shaffer,1989-07-22,LSP Games,f
+Ryan,Garcia,1979-07-31,ASCII Media Works,f
+Shannon,Jenkins,1986-10-14,Coconuts Japan,m
+Heather,Hernandez,1985-07-21,Arika,m
+Joshua,Martinez,1971-04-29,Ertain,m
+Thomas,Smith,1973-09-14,Marvel Entertainment,f
+Stephanie,Lucero,1972-08-21,Prototype,m
+Sydney,Pineda,1990-01-20,TopWare Interactive,m
+Michelle,Rodriguez,1992-11-19,Phantagram,m
+John,Greer,1989-04-16,1C Company,f
+Michael,Carter,1991-04-21,The Learning Company,f
+Carol,Harrison,1978-02-02,TechnoSoft,m
+Tonya,Sparks,1979-11-06,Vap,m
+Kevin,Adams,1988-03-12,Misawa,f
+Brittany,White,1979-06-16,Tradewest,f
+Jeffery,Murray,1976-09-30,Team17 Software,m
+Peter,Kennedy,1976-01-11,Yeti,m
+Alexis,Nelson,1980-11-19,Pow,f
+Peter,Robinson,1985-07-01,Navarre Corp,f
+Judy,Carter,1993-06-08,MediaQuest,m
+Tina,Mcmahon,1970-01-10,Max Five,m
+Elizabeth,Valdez,1991-10-18,Comfort,f
+Kelly,Lucas,1984-06-18,Monte Christo Multimedia,f
+Yvonne,Arellano,1974-10-28,Pony Canyon,m
+Jennifer,Copeland,1990-04-10,Riverhillsoft,f
+Sabrina,Porter,1974-05-02,Summitsoft,f
+Bianca,Jones,1992-04-20,Milestone S.r.l,m
+Heather,Stevens,1980-01-16,Playmore,m
+Jessica,Lee,1983-06-14,MLB.com,f
+Alexander,Martin,1977-10-19,Kool Kizz,m
+Ronnie,Campos,1995-09-20,Flashpoint Games,m
+Manuel,Mejia,1977-10-23,49Games,m
+Jean,Morrow,1981-09-25,Legacy Interactive,f
+Joel,Contreras,1976-04-09,Alawar Entertainment,f
+Christopher,Adams,1997-02-16,CyberFront,m
+James,Berry,1997-02-23,Cloud Imperium Games Corporation,f
+Michael,Edwards,1996-08-04,Societa,f
+Walter,Ramos,1983-08-04,Virtual Play Games,m
+Joe,Arnold,1991-12-06,Interchannel,f
+Donald,Waters,1986-11-09,Sonnet,m
+Jamie,Lawrence,1996-12-02,Experience Inc.,f
+Rebecca,Johnson,1984-08-16,Zenrin,f
+Samuel,Cooper,1997-03-02,Iceberg Interactive,m
+Jane,Reyes,1993-11-26,Ivolgamus,f
+Jonathan,Saunders,1988-05-01,2D Boy,f
+Tracy,Wilson,1978-08-16,MC2 Entertainment,m
+Stacey,Smith,1972-06-08,Kando Games,f
+Scott,Howard,1972-06-30,Just Flight,m
+Andrew,Tate,1975-11-12,Office Create,f
+Crystal,Shaffer,1987-09-30,Mamba Games,f
+Alexander,Perez,1981-04-19,Fields,f
+Brenda,Ortiz,1970-01-14,Princess Soft,m
+Trevor,Middleton,1980-01-26,Maximum Family Games,m
+Daniel,Weeks,1991-05-23,Berkeley,m
+Jonathan,Jackson,1976-03-07,Fuji,m
+Sherry,Warner,1981-12-25,Dusenberry Martin Racing,f
+Joshua,Henderson,1989-04-24,imageepoch Inc.,f
+William,Davis,1985-04-23,Big Fish Games,f
+Megan,Cain,1975-12-02,Her Interactive,m
+Kristina,Durham,1996-12-02,Kamui,f
+Richard,Matthews,1973-10-31,ASK,m
+Kevin,Williams,1993-07-23,Headup Games,f
+Kevin,Reed,1989-11-13,KSS,m
+Dale,Hernandez,1983-07-04,Cygames,f
+Christopher,Anderson,1976-12-02,KID,m
+Diane,Duffy,1988-12-09,Quinrose,f
+Zachary,Best,1982-04-21,Sunflowers,f
+Lisa,Hernandez,1982-08-13,dramatic create,m
+Terry,Gordon,1986-10-08,TGL,m
+Phillip,Rowland,1978-05-05,Encore,f
+Belinda,Kirk,1970-08-05,Extreme Entertainment Group,f
+Stacy,Espinoza,1990-10-09,Intergrow,m
+Holly,Hurst,1990-12-14,G.Rev,m
+Tiffany,Rivera,1970-12-18,Sweets,f
+Jacqueline,Thompson,1985-05-31,Kokopeli Digital Studios,m
+Jessica,Stewart,1989-03-10,Number None,f
+Wendy,Ferguson,1986-12-13,Nexon,m
+Robyn,Johnson,1981-12-24,id Software,f
+Hannah,Gonzalez,1989-11-29,BushiRoad,m
+Walter,Brown,1992-04-23,Tryfirst,f
+Arthur,Nunez,1996-06-14,Strategy First,f
+Jenna,Davis,1971-01-01,7G//AMES,f
+Melanie,Harris,1984-08-14,GN Software,m
+Kathleen,Shepard,1986-05-31,Yuke's,m
+Natalie,Price,1994-07-12,Easy Interactive,f
+Vanessa,Kirby,1988-11-26,Licensed 4U,m
+Matthew,Mcdonald,1973-09-16,FuRyu Corporation,m
+Molly,Allen,1984-03-25,Lexicon Entertainment,f
+Holly,Burgess,1971-01-05,Paon Corporation,m
+Jennifer,Davis,1982-11-08,Kids Station,f
+Kimberly,Knight,1979-10-11,GOA,m
+Elijah,Odonnell,1981-08-08,Graphsim Entertainment,m
+Thomas,Daniel,1978-08-06,King Records,m
+Theresa,Pineda,1990-07-22,Introversion Software,f
+Angela,Lawson,1991-07-08,Minato Station,f
+Michael,Payne,1988-01-13,Devolver Digital,f
+Julie,Snyder,1977-10-19,Blue Byte,m
+Amanda,Reeves,1986-08-05,Gaga,f
+James,Lee,1994-01-13,Yamasa Entertainment,f
+Sherry,Collins,1984-06-24,Plenty,f
+Mary,Thompson,1988-04-21,Views,m
+Margaret,Costa,1983-08-04,fonfun,m
+Teresa,Turner,1979-04-24,NetRevo,f
+David,Clark,1977-06-25,Codemasters Online,f
+Carla,Reed,1974-01-12,Quintet,f
+Breanna,Hernandez,1985-12-17,Phoenix Games,f
+Michael,Lyons,1977-02-11,Dorart,m
+James,Jones,1978-09-14,Marvelous Games,m
+Lauren,Ramos,1986-06-12,Focus Multimedia,m
+Lisa,Mills,1976-03-21,Imageworks,f
+Benjamin,Roberts,1978-01-25,Karin Entertainment,m
+Jonathan,Robinson,1983-12-11,Aerosoft,f
+James,Abbott,1990-08-09,Technos Japan Corporation,f
+David,Nguyen,1981-12-15,Gakken,f
+David,Mayer,1992-09-17,Mirai Shounen,m
+Marvin,Bowman,1988-05-29,Datam Polystar,m
+April,Murray,1984-12-19,Saurus,f
+Dana,Brooks,1984-11-29,HuneX,f
+Kenneth,Fuller,1988-05-14,Revolution (Japan),m
+Terry,Nichols,1986-07-17,Giza10,f
+Ashley,Ellis,1994-10-27,Visco,f
+Keith,Smith,1973-10-20,Alvion,f
+Lori,Grant,1985-07-30,Mycom,f
+Michael,Pacheco,1994-09-16,Giga,f
+Nathan,Collier,1976-10-29,Warashi,m
+Justin,Smith,1988-09-14,System Soft,f
+Laura,Orr,1989-07-10,Sold Out,m
+Jessica,Carpenter,1978-04-16,Lighthouse Interactive,m
+Erica,Lee,1992-02-16,Masque Publishing,f
+Luis,Evans,1988-05-12,RED Entertainment,f
+Brian,Callahan,1990-07-10,Michaelsoft,m
+Jared,Black,1991-06-02,Media Entertainment,f
+Jody,Conway,1990-11-20,New World Computing,m
+Mackenzie,Mcintyre,1971-09-06,Genterprise,m
+Janice,Clayton,1996-12-05,"Interworks Unlimited, Inc.",f
+Emily,Wright,1987-11-12,Boost On,f
+Edward,Lewis,1975-05-21,Stainless Games,f
+Adam,Hardy,1970-11-10,EON Digital Entertainment,m
+Jason,Holden,1990-08-16,Epic Games,m
+Jamie,Flores,1977-03-28,Naxat Soft,m
+Jennifer,Schmidt,1971-08-21,Ascaron Entertainment,m
+Brian,Perez,1978-12-01,Piacci,f
+Robert,Cruz,1995-08-01,Nitroplus,f
+Adam,Page,1970-03-22,Paradox Development,f
+Wayne,Stephens,1974-09-22,Otomate,m
+Phillip,Cordova,1977-07-09,Ongakukan,m
+Paige,Moreno,1992-03-16,Commseed,m
+Richard,Hartman,1973-01-22,Inti Creates,m
+Jessica,Maddox,1989-04-07,Takuyo,m
+Michael,Levy,1991-02-18,Interchannel-Holon,f
+Joshua,Lozano,1989-06-30,Rain Games,f
+Diane,Adams,1996-11-01,UIG Entertainment,m
